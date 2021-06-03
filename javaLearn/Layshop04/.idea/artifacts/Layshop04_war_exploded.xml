@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Layshop04:war exploded">
+    <output-path>$PROJECT_DIR$/web/WEB-INF/classes</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Layshop04/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Layshop04" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="taglibs-standard-spec-1.2.5" />
+          <element id="library" level="project" name="standard-1.1.2" />
+          <element id="library" level="project" name="taglibs-standard-impl-1.2.5" />
+          <element id="library" level="project" name="mysql-connector-java-8.0.20" />
+          <element id="library" level="project" name="jstl-1.2" />
+          <element id="library" level="project" name="jsmartcom_zh_CN" />
+          <element id="library" level="project" name="jasper" />
+          <element id="library" level="project" name="servlet-api" />
+          <element id="library" level="project" name="jsp-api" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
